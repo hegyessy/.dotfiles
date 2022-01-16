@@ -1,0 +1,31 @@
+window:
+  padding:
+    x: 15
+    y: 15
+  class:
+    instance: Alacritty
+    general: Alacritty
+
+font:
+  normal:
+    family: OperatorMonoSSm Book
+    style: Normal
+  bold:
+    family: OperatorMonoSSm Bold
+    style: Bold
+  italic:
+    family: OperatorMonoSSM Italic
+    style: Italic
+  bold_italic:
+    family: OperatorMonoSSm BoldItalic
+    style: BoldItalic
+  size: 8
+
+draw_bold_text_with_bright_colors: true
+
+cursor:
+  style:
+    shape: Underline
+
+live_config_reload: true
+
